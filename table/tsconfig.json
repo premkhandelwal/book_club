@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+  "jsx": "react",
+   "target": "es5",
+   "outDir": "dist",
+   "allowJs": true,
+   "skipLibCheck": true,
+   "strict": true,
+   "forceConsistentCasingInFileNames": true,
+   "module": "esnext",
+   "allowSyntheticDefaultImports": true,
+   "moduleResolution": "Node",
+   "declaration": true,
+   "declarationDir": "dist"
+   },
+   "include": [
+   "stories"
+   ]
+  }
